@@ -1,6 +1,6 @@
 # yappyChuck
 
-Yet another Python link to Chuck using Open SOund Control (OSC). 
+Yet another Python link to Chuck using Open Sound Control (OSC). 
 
 The library has two classes: Server and Client
 
